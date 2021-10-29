@@ -4,7 +4,7 @@
 #
 Name     : gssapi
 Version  : 1.6.14
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/b5/87/f12db218b0cfba2e31ae791d65c8109ee1f25c77f29dfa174fa000684eb9/gssapi-1.6.14.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b5/87/f12db218b0cfba2e31ae791d65c8109ee1f25c77f29dfa174fa000684eb9/gssapi-1.6.14.tar.gz
 Summary  : Python GSSAPI Wrapper
